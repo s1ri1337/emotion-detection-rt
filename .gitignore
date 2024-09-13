@@ -1,0 +1,10 @@
+__pycache__
+mlruns
+dist
+build
+data/train/*
+data/test/*
+data/images/*
+data/image/*
+VGG16.h5
+VGGFace2_DeepFace_weights_val-0.9034.h5
